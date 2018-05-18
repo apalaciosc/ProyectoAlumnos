@@ -1,0 +1,7 @@
+c:\users\alpal\documents\visual studio 2013\Projects\ProyectoAlumnos\ProyectoAlumnos\bin\Debug\ProyectoAlumnos.pdb
+c:\users\alpal\documents\visual studio 2013\Projects\ProyectoAlumnos\ProyectoAlumnos\obj\Debug\ProyectoAlumnos.csprojResolveAssemblyReference.cache
+c:\users\alpal\documents\visual studio 2013\Projects\ProyectoAlumnos\ProyectoAlumnos\obj\Debug\ProyectoAlumnos.frmRegistrarPromedio.resources
+c:\users\alpal\documents\visual studio 2013\Projects\ProyectoAlumnos\ProyectoAlumnos\obj\Debug\ProyectoAlumnos.csproj.GenerateResource.Cache
+c:\users\alpal\documents\visual studio 2013\Projects\ProyectoAlumnos\ProyectoAlumnos\obj\Debug\ProyectoAlumnos.pdb
+c:\users\alpal\documents\visual studio 2013\Projects\ProyectoAlumnos\ProyectoAlumnos\bin\Debug\ProyectoAlumnos.exe
+c:\users\alpal\documents\visual studio 2013\Projects\ProyectoAlumnos\ProyectoAlumnos\obj\Debug\ProyectoAlumnos.exe
